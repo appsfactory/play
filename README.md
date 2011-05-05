@@ -19,4 +19,7 @@ Clone the repository and make a file named for yourself (eg rob.txt).
 
 Add, commit and push the file to the repo.
 
-Afterwards, feel free to edit files and try to experience a conflict.
+Afterwards, feel free to edit files and try to experience a conflict. 
+
+
+Caio was here!
