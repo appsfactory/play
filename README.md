@@ -23,3 +23,4 @@ Afterwards, feel free to edit files and try to experience a conflict.
 
 
 Caio was here!
+A change took place.
